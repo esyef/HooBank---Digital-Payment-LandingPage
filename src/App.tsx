@@ -25,7 +25,9 @@ const App = () => {
       </header>
 
       <section className={`bg-primary ${styles.flexStart}`}>
-        <article className={`${styles.boxWidth}`}>Hero</article>
+        <article className={`${styles.boxWidth}`}>
+          <Hero />
+        </article>
       </section>
 
       <main className={`bg-primary ${styles.flexStart} ${styles.paddingX}`}>
