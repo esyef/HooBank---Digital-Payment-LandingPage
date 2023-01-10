@@ -107,7 +107,8 @@
   }
 }
 
-.feature-card:hover {
+.feature-card:hover,
+.feature-card:active {
   background: var(--black-gradient);
   box-shadow: var(--card-shadow);
 }
