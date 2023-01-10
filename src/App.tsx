@@ -1,13 +1,10 @@
 import {
   Navbar,
   Billing,
-  Button,
   CTA,
   CardDeal,
   Clients,
-  FeddbackCard,
   Footer,
-  GetStarted,
   Hero,
   Stats,
   Testimonials,
